@@ -1,3 +1,7 @@
 ignore.html
 ignore1.html
-newignoretest.html
+ignore2.html
+ignore3.html
+css/*.css
+node_modules
+
